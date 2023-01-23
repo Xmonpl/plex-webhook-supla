@@ -6,3 +6,9 @@ Włączamy film - oświetlenie gaśnie,
 Zatrzymujemy lub wyłączamy film - oświetlenie się załącza
 
 Specjalnie dla @KlimasTech
+
+Odpalenie
+
+```bash
+npm install && node .
+```
