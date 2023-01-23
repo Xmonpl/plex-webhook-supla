@@ -56,5 +56,6 @@ async function sendAction(json, suplaUrl, suplaCode, suplaAction, plexEvent, ple
           }
         }
       )
+    res.status(200).end() 
   }
 }
