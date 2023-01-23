@@ -4,3 +4,5 @@ Prosta aplikacja, która zarządza naszym oświetleniem supli przy oglądaniu na
 
 Włączamy film - oświetlenie gaśnie,
 Zatrzymujemy lub wyłączamy film - oświetlenie się załącza
+
+Specjalnie dla @KlimasTech
